@@ -1,0 +1,186 @@
+{
+  "decks": [
+    {
+      "name": "Bippity Boppity Boo",
+      "description": "Boops",
+      "id": 18
+    },
+    {
+      "name": "Mom",
+      "description": "mom",
+      "id": 23
+    },
+    {
+      "name": "ad",
+      "description": "ddd",
+      "id": 29
+    },
+    {
+      "name": "sdf",
+      "description": "sdf",
+      "id": 31
+    },
+    {
+      "name": "sa",
+      "description": "aa",
+      "id": 32
+    },
+    {
+      "name": "New Deck",
+      "description": "Maybe I will try on this one",
+      "id": 34
+    }
+  ],
+  "cards": [
+    {
+      "front": "new card",
+      "back": "asdfasdffsdfs",
+      "deckId": 18,
+      "id": 5
+    },
+    {
+      "front": "15515",
+      "back": "000",
+      "deckId": 18,
+      "id": 7
+    },
+    {
+      "front": "d",
+      "back": "s25",
+      "deckId": 18,
+      "id": 8
+    },
+    {
+      "front": "1",
+      "back": "1",
+      "deckId": 18,
+      "id": 10
+    },
+    {
+      "front": "02",
+      "back": "11",
+      "deckId": 23,
+      "id": 12
+    },
+    {
+      "front": "ss",
+      "back": "f",
+      "deckId": 18,
+      "id": 13
+    },
+    {
+      "front": "fff",
+      "back": "fff",
+      "deckId": 18,
+      "id": 17
+    },
+    {
+      "front": "sdf",
+      "back": "sf",
+      "deckId": 23,
+      "id": 18
+    },
+    {
+      "front": "f",
+      "back": "f",
+      "deckId": 18,
+      "id": 21
+    },
+    {
+      "front": "0",
+      "back": "10",
+      "deckId": 23,
+      "id": 22
+    },
+    {
+      "front": "s",
+      "back": "s",
+      "deckId": 18,
+      "id": 41
+    },
+    {
+      "front": "sfd",
+      "back": "sfd",
+      "deckId": 18,
+      "id": 42
+    },
+    {
+      "front": "s",
+      "back": "f",
+      "deckId": 18,
+      "id": 43
+    },
+    {
+      "front": "asda",
+      "back": "ddd",
+      "deckId": 18,
+      "id": 45
+    },
+    {
+      "front": "12",
+      "back": "00",
+      "deckId": 29,
+      "id": 52
+    },
+    {
+      "front": "a",
+      "back": "a",
+      "deckId": 18,
+      "id": 53
+    },
+    {
+      "front": "asd",
+      "back": "asd",
+      "deckId": 31,
+      "id": 54
+    },
+    {
+      "front": "Who killed Mathias Mathiasons?",
+      "back": "Mathias' son",
+      "deckId": 31,
+      "id": 55
+    },
+    {
+      "front": "f",
+      "back": "seses",
+      "deckId": 31,
+      "id": 56
+    },
+    {
+      "front": "sa",
+      "back": "aaaaaa",
+      "deckId": 32,
+      "id": 57
+    },
+    {
+      "front": "sQA",
+      "back": "QQQQ",
+      "deckId": 32,
+      "id": 58
+    },
+    {
+      "front": "sf",
+      "back": "sf",
+      "deckId": 34,
+      "id": 59
+    },
+    {
+      "front": "one two three",
+      "back": "follow my lead",
+      "deckId": 34,
+      "id": 60
+    },
+    {
+      "front": "four five six",
+      "back": "tootsie pops take three licks",
+      "deckId": 34,
+      "id": 61
+    },
+    {
+      "front": "s",
+      "back": "s",
+      "deckId": 18,
+      "id": 62
+    }
+  ]
+}
